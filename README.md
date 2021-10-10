@@ -105,7 +105,7 @@ Composer is the dependecy manager for Laravel. If we need to install any additio
 If you want to work and save images, like the Instagram Clone that we are creating. You will have to run one command to make sure that the images are available to the public.
 -> php artisan storage:link
 Answer:
-The [C:\Users\fperez1\Documents\Programming\myfirstapp\public\storage] link has been connected to [C:\Users\fperez1\Documents\Programming\myfirstapp\storage\app/public].
+The [C:\Programming\myfirstapp\public\storage] link has been connected to [C:\Programming\myfirstapp\storage\app/public].
 The links have been created.
 
 # Add a new field to the Register page
